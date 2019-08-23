@@ -23,6 +23,6 @@ author:
   email:             aleksandar.meckaroski@gmail.com
 
 # Gems
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-gist
