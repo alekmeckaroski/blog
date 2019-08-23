@@ -1,4 +1,7 @@
-# Design patterns
+---
+layout: post
+title: Design Patterns
+---
 
 ## Introduction
 
