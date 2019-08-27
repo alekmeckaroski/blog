@@ -7,7 +7,8 @@ title: Фасада (Facade Pattern)
 Оваа шема дефинира начин преку кој ќе се упрости пристапот кон под-системите во еден софтвер.
 Со други зборови, имаме едноставен интерфејс преку кој пристапуваме кон другите, посложени интерфејси во целиот систем.
 
-![facade-pattern](/assets/img/facade.jpg)
+<!-- ![facade-pattern](/assets/img/facade.jpg) -->
+<img src="https://alekmeckaroski.github.io/blog/assets/img/facade.jpg" alt="Picture">
 
 # Примери
 
