@@ -22,6 +22,9 @@ author:
   url:               https://alekmeckaroski.github.io
   email:             aleksandar.meckaroski@gmail.com
 
+include:
+  - "_img"
+
 # Gems
 plugins:
   - jekyll-paginate
